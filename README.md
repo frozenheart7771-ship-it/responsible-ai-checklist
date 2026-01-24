@@ -1,109 +1,44 @@
-# Responsible AI Checklist
+# Responsible AI Checklist – A Practical Tool for Teams
 
-This repository contains practical guidance and simple checklists for the responsible use of Artificial Intelligence in organisations.
+## What is this?
+This is a simple, actionable checklist for any professional or team using AI tools (like ChatGPT, Copilot, Midjourney, etc.). Its goal is to prevent common AI risks **before** they happen.
 
-It is written for business leaders, managers, educators, and teams who are already using AI tools in their daily work — often without clear governance, policies, or oversight.
+## Why did I create it?
+Most AI governance fails because it's too complex. Teams need a **simple starting point**—a habit of pausing and asking the right questions. This checklist turns abstract "AI ethics" into a daily practice.
 
-The goal of this repository is not to promote technology, but to reduce risk, increase accountability, and encourage thoughtful adoption of AI.
+## How to use it
+1.  **Download** the [Word template](responsible-ai-checklist-template.docx) or copy the checklist below.
+2.  **Share it** with your team before starting any AI-assisted work.
+3.  **Go through each question** together before finalizing any AI-generated output.
+4.  **Keep it visible**—pin it to your team's channel or project board.
 
----
+## The Checklist (Core Version)
 
-## Why this repository exists
+### Before You Start
+1.  ❔ **Have we identified a named owner for this AI-assisted task?**
+2.  🛡️ **Are we clear on what data is OFF-LIMITS for upload (e.g., customer PII, internal strategy)?**
 
-In many organisations today, AI is being used quietly.
+### During Use
+3.  🔍 **Is a human reviewing the AI's output step-by-step, not just the final result?**
+4.  📊 **Can we explain why we trust this output? If not, we verify.**
+5.  ⚠️ **Has the AI suggested anything unsafe, biased, or legally risky?**
+6.  🌐 **Do we know where this AI tool stores and processes our data?**
 
-Employees use AI tools to:
-- draft emails and reports
-- summarise documents
-- analyse data
-- generate ideas and content
+### Before Sharing
+7.  👁️ **Would we be comfortable if this output became public or was seen by our CEO?**
+8.  ✅ **Has the final human owner approved and signed off?**
+9.  📁 **Is this decision logged (e.g., in a ticket, memo, or chat thread) for future accountability?**
 
-Most of this usage happens without formal approval, training, or clear rules. This creates what is often called **Shadow AI** — the unmanaged use of AI tools inside organisations.
-
-The risk is usually not the AI tool itself.
-
-The real risk comes from:
-- lack of visibility
-- lack of ownership
-- lack of human review
-- exposure of sensitive data
-- unclear accountability when something goes wrong
-
-This repository exists to address these issues in a simple, practical way.
-
----
-
-## Who this is for
-
-This repository is intended for:
-
-- Business leaders and managers
-- Compliance and risk professionals
-- HR and operations teams
-- Educators and trainers
-- Anyone responsible for approving or reviewing AI-assisted work
-
-It is **not** written for software engineers or researchers only.  
-No technical background is required.
-
----
-
-## Core principles behind this work
-
-The ideas in this repository are guided by a few simple principles:
-
-- AI should support human decision-making, not replace accountability
-- Every AI output must have a human owner
-- Sensitive data requires extra care and restraint
-- Transparency matters more than speed
-- Governance should enable trust, not fear
-
-Responsible AI does not start with complex frameworks.  
-It starts with clear thinking and good habits.
-
----
-
-## What you will find here
-
-This repository will gradually include:
-
-- Practical AI usage checklists
-- Simple governance questions leaders should ask
-- Guidance on human review and approval
-- Notes on data sensitivity and risk
-- Examples of common AI misuse scenarios
-- Lightweight policy and training templates
-
-The focus is on **practical application**, not theory.
-
----
+## This is part of a bigger idea
+This checklist is a practical step toward **operational AI governance**. It aligns with frameworks like **"Accountability Triggers"** — designing systems where safety and human oversight are built into the workflow, not added as an afterthought.
 
 ## About the author
+**Japmandeep (Sunny) Ahluwalia**  
+AI Ethics & Governance Practitioner | Oxford AI Ethics Programme | Focus: Translating ethical principles into operational business practices.  
+[LinkedIn](https://www.linkedin.com/in/japmandeep-ahluwalia-a834ab24/) | [Portfolio](https://sites.google.com/view/japmandeep/home)
 
-This repository is maintained by **Japmandeep “Sunny” Ahluwalia**.
+## License
+This checklist is open-source under the [MIT License](LICENSE). Feel free to use, modify, and share it.
 
-I work at the intersection of business leadership and responsible AI adoption. My focus is on AI governance, Shadow AI risk, and helping organisations adopt AI safely and thoughtfully.
-
-My work is informed by real-world business experience, public writing, and ongoing learning in AI ethics and governance.
-
----
-
-## How this repository will evolve
-
-This is a living repository.
-
-Content will be added gradually, refined over time, and improved based on practical use and feedback.
-
-The intention is to keep the material:
-- clear
-- usable
-- honest
-- and grounded in real organisational needs
-
----
-
-## Disclaimer
-
-The content in this repository is for educational and informational purposes only.
-
-It does not constitute legal advice, regulatory guidance, or technical certification. Organisations should adapt these ideas to their own context and regulatory environment.
+## Contributing
+Suggestions to improve this checklist? Open an Issue or send a Pull Request. Let's make it better together.
